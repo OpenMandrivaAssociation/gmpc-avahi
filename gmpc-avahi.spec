@@ -35,5 +35,5 @@ An avahi plugin for gmpc.
 
 %files
 %defattr(-,root,root)
-%{_datadir}/gmpc/plugins/avahiplugin.la
-%{_datadir}/gmpc/plugins/avahiplugin.so
+%{_libdir}/gmpc/plugins/avahiplugin.la
+%{_libdir}/gmpc/plugins/avahiplugin.so
