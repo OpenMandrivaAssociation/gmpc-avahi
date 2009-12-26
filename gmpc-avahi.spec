@@ -1,6 +1,6 @@
 Summary:	An avahi plugin for gmpc
 Name:		gmpc-avahi
-Version:	0.18.0
+Version:	0.19.0
 Release:	%mkrel 1
 License:	GPLv2+
 Group:		Sound
