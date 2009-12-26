@@ -12,6 +12,7 @@ BuildRequires:	libavahi-glib-devel
 BuildRequires:	libavahi-client-devel
 BuildRequires:	gmpc-devel >= 0.15.98
 BuildRequires:	gtk+2-devel >= 2.4
+BuildRequires:	intltool
 Requires:	gmpc
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
